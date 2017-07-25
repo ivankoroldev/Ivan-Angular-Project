@@ -1,0 +1,23 @@
+.logo {
+	max-width: 300px;
+	margin-bottom: 30px;
+}
+
+.logo a {
+	display: block;
+}
+
+.logo img {
+	max-width: 100%;
+}
+
+@media (max-width: 767px) {
+
+	.logo {
+		margin: 0 auto;
+	}
+
+	.sidebar-holder {
+		margin-bottom: 30px;
+	}
+}
